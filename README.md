@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 💼 In my day job I am an AI & data science team lead, with a focus on data-driven strategies for environmental liabilities
-- 🔭 I’m currently working on projects that combine analytics with other interests like finance and martial arts
+- 🔭 I’m currently working on projects that combine analytics with other interests like finance, Fantasy, martial arts and legos
 - 🌱 I’m currently learning jiu jitsu and neo4j
 
 <!--
