@@ -3,6 +3,7 @@ I am an AI & data science team lead, with a focus on data-driven strategies for 
 
 - 🏀 Extracurricular interests include real estate, fantasy, martial arts, Legos, and basketball
 - 🔭 Currently working on projects that merge my personal interests with work skills
+- 🧪 My educational background is in Chemistry, so I also enjoy when chemical literacy is needed for a project
 - 🤝 Open to collaboration. Would love to contribute to an open-source project
 
 <!--
