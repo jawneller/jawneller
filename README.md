@@ -1,6 +1,6 @@
-## Hi there 👋
+## Howdy 🤠
+I am an AI & data science team lead, with a focus on data-driven strategies for the environmental sector
 
-- 💼 In my day job I am an AI & data science team lead, with a focus on data-driven strategies for the environmental sector
 - 🏀 Extracurricular interests include real estate, fantasy, martial arts, Legos, and basketball
 - 🔭 Currently working on projects that merge my personal interests with work skills
 - 🤝 Open to collaboration. Would love to contribute to an open-source project
