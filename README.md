@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-- 💼 In my day job I am an AI & data science team lead, with a focus on data-driven strategies for environmental liabilities
-- 🔭 I’m currently working on projects that combine analytics with other interests like finance, Fantasy, martial arts and legos
-- 🏀 Time to hoop
+- 💼 In my day job I am an AI & data science team lead, with a focus on data-driven strategies for the environmental sector
+- 🏀 Extracurricular interests include real estate, fantasy, martial arts, Legos, and basketball
+- 🔭 Currently working on projects that merge my personal interests with work skills
+- 🤝 Open to collaboration. Would love to contribute to an open-source project
 
 <!--
 **jawneller/jawneller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
